@@ -1,0 +1,10 @@
+Git is a version control system  that is widely used for tracking changes in source code during software development. 
+It was created by Linus Torvalds in 2005 to manage the development of the Linux kernel, 
+but it has since become one of the most popular version control systems across various industries and projects.
+
+Git allows developers to track changes to their codebase over time. 
+It enables them to revert to previous versions, compare changes, and collaborate with others more effectively.
+
+Unlike centralized version control systems, Git is distributed, 
+meaning that every user has a complete copy of the entire repository, including its history.
+This allows developers to work offline and makes branching and merging more efficient.
