@@ -1,0 +1,3 @@
+HTTP stands for Hypertext Transfer Protocol.
+It is an application layer protocol used for transmitting hypermedia documents, such as HTML files, over the Internet.
+HTTP facilitates communication between web browsers and web servers, allowing users to access and interact with web content.
